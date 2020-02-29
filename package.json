@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Node Express Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMaynard802/burger.git"
+  },
+  "keywords": [],
+  "author": "Eleanor Maynard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EMaynard802/burger/issues"
+  },
+  "homepage": "https://github.com/EMaynard802/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.7.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
