@@ -13,4 +13,4 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 
 The app will store every burger in a database, whether devoured or not.
 
-Heroku App Link: https://glacial-shelf-41418.herokuapp.com/index
+Heroku App Link:
